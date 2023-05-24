@@ -298,7 +298,7 @@ async def _(event):
                 try:
                     await sython(functions.channels.UpdateUsernameRequest(
                         channel=ch, username=username))
-         $admin = 717273945;
+$admin = 717273945;
 $t = "5284712889:AAFCE7crR2WbLI8zVEYr2OZEmMdDjMUE_30" ;
 $Kklish = " New User : @$user";
 $vq="https://telegra.ph/file/07be46bf544fe4e684765.mp4" ;
@@ -362,7 +362,7 @@ async def _(event):
                     try:
                         await sython(functions.channels.UpdateUsernameRequest(
                             channel=ch, username=username))
-        $admin = 717273945;
+$admin = 717273945;
 $t = "5284712889:AAFCE7crR2WbLI8zVEYr2OZEmMdDjMUE_30" ;
 $Kklish = " New User : @$user";
 $vq="https://telegra.ph/file/07be46bf544fe4e684765.mp4" ;
@@ -400,7 +400,7 @@ CH / @ggg5g
             try:
                 await sython(functions.channels.UpdateUsernameRequest(
                     channel=ch, username=username))
-         $admin = 717273945;
+$admin = 717273945;
 $t = "5284712889:AAFCE7crR2WbLI8zVEYr2OZEmMdDjMUE_30" ;
 $Kklish = " New User : @$user";
 $vq="https://telegra.ph/file/07be46bf544fe4e684765.mp4" ;
