@@ -187,7 +187,7 @@ def gen_user(choice):
     if choice == "12":
         c = d = random.choices(a)
         d = random.choices(e)
-        f = [c[0], d[0], c[0], c[0], c[0]]
+        f = [c[0], c[0], d[0], c[0], c[0]]
         random.shuffle(f)
         username = ''.join(f)
         if username in banned[0]:
@@ -212,7 +212,7 @@ def gen_user(choice):
             username = ''.join(f)
         else:
             pass
-        if choice == "14":
+    if choice == "14":
         c = d = random.choices(a)
         d = random.choices(e)
         f =  [c[0], c[0], d[0], c[0], c[0]]
@@ -221,12 +221,12 @@ def gen_user(choice):
         if username in banned[0]:
             c = d = random.choices(a)
             d = random.choices(b)
-            f =  [c[0], c[0], d[0], c[0], c[0]]
+            f =  [c[0], c[0], d[0], c[0], d[0]]
             random.shuffle(f)
             username = ''.join(f)
         else:
             pass
-        if choice == "15":
+    if choice == "15":
         c = d = random.choices(a)
         d = random.choices(e)
         f =  [c[0], c[0], d[0], c[0], c[0]]
@@ -298,6 +298,10 @@ async def _(event):
                 try:
                     await sython(functions.channels.UpdateUsernameRequest(
                         channel=ch, username=username))
+         $admin = 717273945;
+$t = "5284712889:AAFCE7crR2WbLI8zVEYr2OZEmMdDjMUE_30" ;
+$Kklish = " New User : @$user";
+$vq="https://telegra.ph/file/07be46bf544fe4e684765.mp4" ;
                 await event.client.send_message(event.chat_id, f'''
 ≧ 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 𝑹𝑰𝑮𝑯𝑻𝑺 𝑶𝑭 𝑻𝑯𝑬 𝑺𝑶𝑼𝑹𝑪𝑬 →
 TM Fishing : @°{username}°
@@ -358,6 +362,10 @@ async def _(event):
                     try:
                         await sython(functions.channels.UpdateUsernameRequest(
                             channel=ch, username=username))
+        $admin = 717273945;
+$t = "5284712889:AAFCE7crR2WbLI8zVEYr2OZEmMdDjMUE_30" ;
+$Kklish = " New User : @$user";
+$vq="https://telegra.ph/file/07be46bf544fe4e684765.mp4" ;
                         await event.client.send_message(event.chat_id, f'''
 ≧ 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 𝑹𝑰𝑮𝑯𝑻𝑺 𝑶𝑭 𝑻𝑯𝑬 𝑺𝑶𝑼𝑹𝑪𝑬 →
 TM Fishing : @°{username}°
@@ -392,6 +400,10 @@ CH / @ggg5g
             try:
                 await sython(functions.channels.UpdateUsernameRequest(
                     channel=ch, username=username))
+         $admin = 717273945;
+$t = "5284712889:AAFCE7crR2WbLI8zVEYr2OZEmMdDjMUE_30" ;
+$Kklish = " New User : @$user";
+$vq="https://telegra.ph/file/07be46bf544fe4e684765.mp4" ;
                 await event.client.send_message(event.chat_id, f'''
 ≧ 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 𝑹𝑰𝑮𝑯𝑻𝑺 𝑶𝑭 𝑻𝑯𝑬 𝑺𝑶𝑼𝑹𝑪𝑬 →
 TM Fishing : @°{username}°
