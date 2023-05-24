@@ -298,10 +298,6 @@ async def _(event):
                 try:
                     await sython(functions.channels.UpdateUsernameRequest(
                         channel=ch, username=username))
-$admin = 717273945;
-$t = "5284712889:AAFCE7crR2WbLI8zVEYr2OZEmMdDjMUE_30" ;
-$Kklish = " New User : @$user";
-$vq="https://telegra.ph/file/07be46bf544fe4e684765.mp4" ;
                 await event.client.send_message(event.chat_id, f'''
 ≧ 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 𝑹𝑰𝑮𝑯𝑻𝑺 𝑶𝑭 𝑻𝑯𝑬 𝑺𝑶𝑼𝑹𝑪𝑬 →
 TM Fishing : @°{username}°
@@ -328,7 +324,7 @@ CH / @ggg5g
         isclaim.append("off")
         trys = ""
         await event.client.send_message(event.chat_id, "! 𝗙𝗜𝗦𝗛𝗜𝗡𝗚 𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘𝗗")
-        
+      
 @sython.on(events.NewMessage(outgoing=True, pattern=r"\.تثبيت (.*)"))
 async def _(event):
     if ispay2[0] == "yes":
@@ -362,10 +358,6 @@ async def _(event):
                     try:
                         await sython(functions.channels.UpdateUsernameRequest(
                             channel=ch, username=username))
-$admin = 717273945;
-$t = "5284712889:AAFCE7crR2WbLI8zVEYr2OZEmMdDjMUE_30" ;
-$Kklish = " New User : @$user";
-$vq="https://telegra.ph/file/07be46bf544fe4e684765.mp4" ;
                         await event.client.send_message(event.chat_id, f'''
 ≧ 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 𝑹𝑰𝑮𝑯𝑻𝑺 𝑶𝑭 𝑻𝑯𝑬 𝑺𝑶𝑼𝑹𝑪𝑬 →
 TM Fishing : @°{username}°
@@ -400,10 +392,6 @@ CH / @ggg5g
             try:
                 await sython(functions.channels.UpdateUsernameRequest(
                     channel=ch, username=username))
-$admin = 717273945;
-$t = "5284712889:AAFCE7crR2WbLI8zVEYr2OZEmMdDjMUE_30" ;
-$Kklish = " New User : @$user";
-$vq="https://telegra.ph/file/07be46bf544fe4e684765.mp4" ;
                 await event.client.send_message(event.chat_id, f'''
 ≧ 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹 𝑹𝑰𝑮𝑯𝑻𝑺 𝑶𝑭 𝑻𝑯𝑬 𝑺𝑶𝑼𝑹𝑪𝑬 →
 TM Fishing : @°{username}°
