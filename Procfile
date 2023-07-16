@@ -1,1 +1,1 @@
-worker: bash gayhon.py
+worker: bash sython.py
