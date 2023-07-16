@@ -7,4 +7,4 @@ RUN pip3 install -r requirements.txt
 
 
 
-CMD [ "python3" ، "gayhon.py" ]
+CMD [ "python3" ، "sython.py" ]
